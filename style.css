@@ -121,7 +121,7 @@ svg{
   40% {
     transform: translateY(0)
   }
-  
+
 }
 
 /* Page Itself --------------------------------------------- */
@@ -188,7 +188,7 @@ svg{
   z-index: 99999999999999;
 }
 
-.sun-wrapper, 
+.sun-wrapper,
 .moon-wrapper{
   display: flex;
   flex-direction: row;
@@ -313,7 +313,7 @@ svg{
 .section-text{
   line-height: 2;
   margin-top: 18px;
-  font-size: 26px;
+  font-size: 22px;
   color: var(--color-text);
 }
 
@@ -440,6 +440,35 @@ svg{
 
 .green-background{
   background-color: var(--color-green);
+}
+
+/* BM */
+
+/* ME */
+
+.section-image{
+
+  /* met le logo au centre et responsive */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+
+}
+
+/* Contact */
+
+#formsend{
+
+}
+
+#inputform-mail-to{
+display: flex;
+}
+
+#inputbutton-mail-to{
+
 }
 
 
