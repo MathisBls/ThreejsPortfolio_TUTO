@@ -444,6 +444,23 @@ svg{
 
 /* BM */
 
+/* 1 */
+
+.section-image-git{
+  display: block;
+  width: 10%;
+}
+
+.section-image-linked{
+  display: block;
+  width: 10%;
+}
+
+.section-image-inst{
+  display: block;
+  width: 10%;
+}
+
 /* 2 */
 
 .section-image{
@@ -474,6 +491,7 @@ svg{
 .flex-js{
   display: flex;
   align-items: center;
+  
 }
 
 .flex-yarn{
