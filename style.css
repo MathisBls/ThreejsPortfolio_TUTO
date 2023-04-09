@@ -622,6 +622,7 @@ svg{
   margin-top: 18px;
   font-size: 22px;
   color: var(--color-blue);
+  font-weight: 500;
 }
 
 .section-text-red a{
